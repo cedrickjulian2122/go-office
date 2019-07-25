@@ -1,0 +1,22 @@
+{
+  "name": "go-office",
+  "version": "1.0.0",
+  "description": "proejct management with document mangament software",
+  "main": "index.js",
+  "scripts": {
+    "test": "default"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedrickjulian2122/go-office.git"
+  },
+  "keywords": [
+    "n/a"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cedrickjulian2122/go-office/issues"
+  },
+  "homepage": "https://github.com/cedrickjulian2122/go-office#readme"
+}
